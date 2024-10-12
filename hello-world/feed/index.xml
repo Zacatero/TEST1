@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Test	</title>
-	<atom:link href="https://zacatero.github.io/TEST1/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zacatero.github.io/TEST1/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://zacatero.github.io/TEST1/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://zacatero.github.io/TEST1/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Oct 2024 02:41:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://zacatero.github.io/TEST1/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
