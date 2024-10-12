@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Test</title>
-	<atom:link href="https://zacatero.github.io/TEST1/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Test</title>
+	<atom:link href="https://zacatero.github.io/TEST1/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zacatero.github.io/TEST1/</link>
 	<description></description>
 	<lastBuildDate>Wed, 09 Oct 2024 02:41:17 +0000</lastBuildDate>
