@@ -12,7 +12,7 @@
 	<atom:link href="https://zacatero.github.io/TEST1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zacatero.github.io/TEST1/</link>
 	<description></description>
-	<lastBuildDate>Sat, 12 Oct 2024 14:29:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Oct 2024 01:22:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,17 +20,17 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
-		<title>Test Post #1</title>
-		<link>https://zacatero.github.io/TEST1/2024/10/test-post-1/</link>
+		<title>New Blog Post</title>
+		<link>https://zacatero.github.io/TEST1/2024/10/new-blog-post/</link>
 		
 		<dc:creator><![CDATA[administrator]]></dc:creator>
-		<pubDate>Sat, 12 Oct 2024 14:13:17 +0000</pubDate>
-				<category><![CDATA[Test Posts]]></category>
-		<guid isPermaLink="false">https://zacatero.github.io/TEST1/?p=118</guid>
+		<pubDate>Tue, 15 Oct 2024 01:22:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zacatero.github.io/TEST1/?p=181</guid>
 
-					<description><![CDATA[This is a test post. Trying something.]]></description>
+					<description><![CDATA[This is a test of a NEW blog post]]></description>
 										<content:encoded><![CDATA[
-<p>This is a test post. Trying something.</p>
+<p>This is a test of a NEW blog post</p>
 ]]></content:encoded>
 					
 		
