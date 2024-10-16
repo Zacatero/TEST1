@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Test</title>
-	<atom:link href="https://zacatero.github.io/TEST1/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zacatero.github.io/TEST1/</link>
+	<title>Uncategorized</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 12 Oct 2024 14:29:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://zacatero.github.io/TEST1/2024/10/hello-world/</link>
+		<link>/2024/10/hello-world/</link>
 		
 		<dc:creator><![CDATA[administrator]]></dc:creator>
 		<pubDate>Wed, 09 Oct 2024 02:41:17 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zacatero.github.io/TEST1/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[

@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://zacatero.github.io/TEST1/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='October 15, 2024 7:38 pm' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
+<!-- generated-on='October 16, 2024 12:41 pm' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://zacatero.github.io/TEST1/author/administrator/</loc>
-		<lastmod>2024-10-15T17:55:40+00:00</lastmod>
+		<loc>/author/administrator/</loc>
+		<lastmod>2024-10-16T00:21:40+00:00</lastmod>
 		<changefreq>always</changefreq>
 		<priority>1.0</priority>
 	</url>
-</urlset><!-- Request ID: 8f9be6db7e87ef5e5b831a1f880635d5; Queries for sitemap: 2; Total queries: 57; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset><!-- Request ID: bf9b3c0b7e0b003648733b5a33c61e04; Queries for sitemap: 2; Total queries: 57; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->

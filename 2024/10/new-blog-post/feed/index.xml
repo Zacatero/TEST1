@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: New Blog Post	</title>
-	<atom:link href="https://zacatero.github.io/TEST1/2024/10/new-blog-post/feed/" rel="self" type="application/rss+xml" />
-	<link>https://zacatero.github.io/TEST1/2024/10/new-blog-post/</link>
+	<atom:link href="/2024/10/new-blog-post/feed/" rel="self" type="application/rss+xml" />
+	<link>/2024/10/new-blog-post/</link>
 	<description></description>
 	<lastBuildDate>Tue, 15 Oct 2024 01:58:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
