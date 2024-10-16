@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Recipes &#8211; Test</title>
+	<title>Recipes</title>
 	<atom:link href="https://zacatero.github.io/TEST1/category/recipes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zacatero.github.io/TEST1/</link>
 	<description></description>
