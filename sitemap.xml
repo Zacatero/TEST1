@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://zacatero.github.io/TEST1/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='October 17, 2024 5:01 am' -->
+<!-- generated-on='October 17, 2024 5:31 am' -->
 <sitemapindex xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/sitemap-misc.xml</loc>
-		<lastmod>2024-10-17T02:36:36+00:00</lastmod>
+		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/category-sitemap.xml</loc>
-		<lastmod>2024-10-17T02:36:36+00:00</lastmod>
+		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/post-sitemap.xml</loc>
@@ -14,14 +14,14 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/page-sitemap.xml</loc>
-		<lastmod>2024-10-17T02:36:36+00:00</lastmod>
+		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/authors-sitemap.xml</loc>
-		<lastmod>2024-10-17T02:36:36+00:00</lastmod>
+		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://zacatero.github.io/TEST1/archives-sitemap.xml</loc>
-		<lastmod>2024-10-17T02:36:36+00:00</lastmod>
+		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: ec788bcc032d82b984bf92f9e65fac4d; Queries for sitemap: 7; Total queries: 58; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
+</sitemapindex><!-- Request ID: 54be2b6f905720731658737d2b1d675f; Queries for sitemap: 7; Total queries: 62; Seconds: 0.01; Memory for sitemap: 1KB; Total memory: 6MB -->
