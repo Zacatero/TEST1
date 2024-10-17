@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://zacatero.github.io/TEST1/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.21' -->
-<!-- generated-on='October 17, 2024 6:18 am' -->
+<!-- generated-on='October 17, 2024 6:27 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>https://zacatero.github.io/TEST1/author/administrator/</loc>
 		<lastmod>2024-10-17T05:08:32+00:00</lastmod>
 		<changefreq>always</changefreq>
 		<priority>1.0</priority>
 	</url>
-</urlset><!-- Request ID: 9ca3fbed0f8484fca426f6f98ce1a1b3; Queries for sitemap: 2; Total queries: 53; Seconds: 0; Memory for sitemap: 1KB; Total memory: 4MB -->
+</urlset><!-- Request ID: 1cc22cf44ba01f6d6ceb028208b081da; Queries for sitemap: 2; Total queries: 57; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
